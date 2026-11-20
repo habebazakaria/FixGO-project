@@ -8,76 +8,13 @@ The main goal is to make car emergencies less stressful by providing drivers wit
 Team Members : Mervat Ismail , Orkeed Lhaled , Afnan Abdelhamed , Habeba Zakaria , Ahmed Amen , Ahmed Yasser
 \
 FixGo – Work Plan
-The project will be developed through the following stages:
-1. Research & Analysis
-- Identify the target audience.
-- Study users' needs and common car problems.
-- Analyze competitors and similar applications.
-2. Information Architecture
-- Define the app's main features and functionalities.
-- Organize the app's content and navigation structure.
-- Create the user flow.
-3. Wireframing
-- Create low-fidelity wireframes for the main screens.
-- Determine the layout and placement of UI elements.
-- Ensure a smooth and clear user experience.
-4. UI Design
-- Develop the visual identity and design system.
-- Choose colors, typography, icons, and components.
-- Design the high-fidelity mobile app screens.
-5. Prototyping
-- Connect the designed screens.
-- Add interactions and transitions.
-- Simulate the main user journeys.
-6. Testing & Evaluation
-- Test the prototype's usability.
-- Identify navigation and usability issues.
-- Make necessary improvements based on feedback.
-7. Final Presentation
-- Prepare the final screens and interactive prototype.
-- Present the project concept, design process, and final outcome.
+The FixGo project will go through several stages, starting with researching the target audience, understanding users' needs, and analyzing competitors. Then, the app structure, main features, and user flows will be defined. Next, wireframes will be created to organize the screens and their elements, followed by designing the visual identity, UI components, and final screens. After that, an interactive prototype will be developed to simulate the main user journeys. Finally, the design will be tested and improved based on feedback before preparing the final presentation.
 \
 FixGo – Roles & Responsibilities
-1. Project Manager
-- Organize project tasks and manage the timeline.
-- Ensure all project stages are completed on time.
-2. UI/UX Designer
-- Conduct user research and define user needs.
-- Create user flows and wireframes.
-- Design the app screens and user interface.
-3. UX Researcher
-- Analyze the target audience.
-- Identify user problems and expectations.
-- Research competitors and market trends.
-4. Visual Designer
-- Develop the visual identity of the application.
-- Select colors, typography, icons, and design elements.
-5. Prototyping Designer
-- Create an interactive prototype.
-- Connect screens and add interactions and transitions.
-6. Quality Assurance (QA)
-- Test the application prototype.
-- Identify usability issues and navigation problems.
-- Ensure a smooth and consistent user experience.
-- FixGo – KPIs (Key Performance Indicators)
-1. User Experience
-- Achieve a simple and easy-to-use interface.
-- Ensure users can find the required service quickly.
-- Minimize the number of steps needed to request assistance.
-2. AI Diagnosis Accuracy
-- Provide relevant initial diagnoses based on reported car symptoms.
-- Ensure clear and understandable diagnostic suggestions.
-3. Service Accessibility
-- Help users find nearby mechanics and towing services.
-- Make requesting roadside assistance quick and straightforward.
-4. App Performance
-- Ensure smooth navigation between screens.
-- Minimize loading time and technical errors.
-5. User Satisfaction
-- Achieve positive user feedback.
-- Improve usability based on testing results.
-6. Task Completion Rate
-- Measure how many users successfully complete key tasks, such as diagnosing a problem or requesting towing assistance.
+The team will work together to develop the FixGo application, with each member responsible for a specific part of the project. The UI/UX Designer will handle user research, user flows, wireframes, and app screen design. The UX Researcher will analyze the target audience, identify user needs, and study competitors and market trends. The Visual Designer will develop the app's visual identity by selecting colors, typography, icons, and design elements. The Prototyping Designer will create an interactive prototype and connect screens with suitable interactions and transitions. Finally, the Quality Assurance (QA) member will test the prototype, identify usability issues, and ensure a smooth and consistent user experience.
+
+ FixGo – KPIs (Key Performance Indicators) :
+The success of FixGo will be measured by providing a simple and user-friendly experience that allows users to find services and request assistance quickly with minimal steps. The app should deliver accurate and understandable AI-based car diagnoses, provide easy access to nearby mechanics and towing services, and ensure smooth performance with minimal loading time and errors. User satisfaction will be evaluated through feedback and usability testing, while the task completion rate will measure how successfully users complete key actions, such as diagnosing car problems and requesting roadside assistance.
   \
   Instructor : Hazem Abduallah
   \
